@@ -12,6 +12,7 @@
 </p>
 
 
+
  
 ## Skills
 
@@ -45,14 +46,15 @@
 ![Static Badge](https://img.shields.io/badge/BLOCKCHAIN-%23F0B90B?logo=bnbchain&logoColor=black&labelColor=%23F0B90B&color=black)
 
 
+
 ## Here are My Statistics 
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=sparshchaudhari&show_icons=true&theme=radical" height="40%" width="45%" align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=sparshchaudhari&show_icons=true&theme=radical" height="10%" width="50%" >
 
  
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true" height="40%" width="45%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true" height="10%" width="50%" >
     
   
   

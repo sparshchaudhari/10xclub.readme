@@ -32,9 +32,10 @@
 ![Static Badge](https://img.shields.io/badge/BLOCKCHAIN-%23F0B90B?logo=bnbchain&logoColor=black&labelColor=%23F0B90B&color=black)
 
 
-## Blog
-Blog1
-Blog2
+## Here are My Statistics 
+![Sparsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=sparshchaudhari&show_icons=true&theme=radical)
+<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sparshchaudhari&hide_progress=true)
 
 ### Socials
 ![GitHub followers](https://img.shields.io/github/followers/sparshchaudhari)

@@ -1,5 +1,18 @@
-[Bio]----------------------------------------------------------------------------[Bio]
 
+<p align="center">
+  <img src="media/welcome.gif" height="150">
+</p>
+
+<p align="center" width="100%">
+  👋 Hey, I’m Sparsh Chaudhari, your friendly neighborhood Full Stack Developer. I write code, break code, and somehow, eventually make it work (sometimes). 😅
+  💻 I build things that look nice, work well... and occasionally explode when you least expect it.
+  ☕ Fueled by coffee, code, and the occasional panic attack when I realize I missed a deadline.
+  🛠️ I specialize in fixing bugs I thought I already fixed, and creating features no one asked for but everyone needs.
+  💬 Hit me up if you want to chat about tech, memes, or how to make your code just work... after a few tries. 😜
+</p>
+
+
+ 
 ## Skills
 
 ### Technologies
@@ -33,9 +46,21 @@
 
 
 ## Here are My Statistics 
-![Sparsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=sparshchaudhari&show_icons=true&theme=radical)
-<br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sparshchaudhari&hide_progress=true)
+
+
+<img src="https://github-readme-stats.vercel.app/api?username=sparshchaudhari&show_icons=true&theme=radical" height="40%" width="45%" align="left">
+
+ 
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true" height="40%" width="45%">
+    
+  
+  
+  
+  
+
+
+
 
 ### Socials
 ![GitHub followers](https://img.shields.io/github/followers/sparshchaudhari)

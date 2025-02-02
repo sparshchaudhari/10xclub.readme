@@ -1,5 +1,7 @@
 [Bio]----------------------------------------------------------------------------[Bio]
 
+## Skills
+
 ### Technologies
 ![Static Badge](https://img.shields.io/badge/HTML-%23E34F26?logo=html5&logoColor=black&labelColor=%23E34F26&color=black)
 ![Static Badge](https://img.shields.io/badge/CSS-%23663399?logo=css&logoColor=black&labelColor=%23663399&color=black)
@@ -30,31 +32,7 @@
 ![Static Badge](https://img.shields.io/badge/BLOCKCHAIN-%23F0B90B?logo=bnbchain&logoColor=black&labelColor=%23F0B90B&color=black)
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-### Blog
+## Blog
 Blog1
 Blog2
 

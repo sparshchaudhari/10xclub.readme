@@ -1,6 +1,6 @@
 [Bio]----------------------------------------------------------------------------[Bio]
 
-### Skills
+### Technologies
 ![Static Badge](https://img.shields.io/badge/HTML-%23E34F26?logo=html5&logoColor=black&labelColor=%23E34F26&color=black)
 ![Static Badge](https://img.shields.io/badge/CSS-%23663399?logo=css&logoColor=black&labelColor=%23663399&color=black)
 ![Static Badge](https://img.shields.io/badge/JavaScript-%23F7DF1E?logo=JavaScript&logoColor=black&labelColor=%23F7DF1E&color=black)
@@ -15,6 +15,22 @@
 ![Static Badge](https://img.shields.io/badge/React-%2361DAFB?logo=react&logoColor=black&labelColor=%2361DAFB&color=black)
 ![Static Badge](https://img.shields.io/badge/Spring%20Security-%236DB33F?logo=Spring%20Security&logoColor=black&labelColor=%236DB33F&color=black)
 ![Static Badge](https://img.shields.io/badge/Spring-%236DB33F?logo=Spring&logoColor=black&labelColor=%236DB33F&color=black)
+![Static Badge](https://img.shields.io/badge/Spring%20Data%20JPA-%236DB33F?logo=Spring&logoColor=black&labelColor=%236DB33F&color=black)
+
+### Tools
+![Static Badge](https://img.shields.io/badge/OpenAI-%23412991?logo=OpenAI&logoColor=black&labelColor=%23412991&color=black)
+![Static Badge](https://img.shields.io/badge/Gemini-%238E75B2?logo=Google%20Gemini&logoColor=black&labelColor=%238E75B2&color=black)
+![Static Badge](https://img.shields.io/badge/Github%20Copilot-black?logo=Github%20Copilot&logoColor=white&labelColor=grey&color=black)
+![Static Badge](https://img.shields.io/badge/Web3-%23F16822?logo=web3.js&logoColor=black&labelColor=%23F16822&color=black)
+![Static Badge](https://img.shields.io/badge/Docker-%232496ED?logo=Docker&logoColor=black&labelColor=%232496ED&color=black)
+![Static Badge](https://img.shields.io/badge/Kubernetes-%23326CE5?logo=Kubernetes&logoColor=black&labelColor=%23326CE5&color=black)
+
+
+
+
+
+
+
 
 
 

@@ -11,5 +11,6 @@ Blog1
 Blog2
 
 ### Socials
-Github
+![GitHub followers](https://img.shields.io/github/followers/sparshchaudhari)
+
 Twitter

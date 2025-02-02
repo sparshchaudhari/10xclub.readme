@@ -24,6 +24,8 @@
 ![Static Badge](https://img.shields.io/badge/Web3-%23F16822?logo=web3.js&logoColor=black&labelColor=%23F16822&color=black)
 ![Static Badge](https://img.shields.io/badge/Docker-%232496ED?logo=Docker&logoColor=black&labelColor=%232496ED&color=black)
 ![Static Badge](https://img.shields.io/badge/Kubernetes-%23326CE5?logo=Kubernetes&logoColor=black&labelColor=%23326CE5&color=black)
+![Static Badge](https://img.shields.io/badge/PWA-%235A0FC8?logo=PWA&logoColor=black&labelColor=%235A0FC8&color=black)
+
 
 
 

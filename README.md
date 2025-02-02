@@ -25,6 +25,12 @@
 ![Static Badge](https://img.shields.io/badge/Docker-%232496ED?logo=Docker&logoColor=black&labelColor=%232496ED&color=black)
 ![Static Badge](https://img.shields.io/badge/Kubernetes-%23326CE5?logo=Kubernetes&logoColor=black&labelColor=%23326CE5&color=black)
 ![Static Badge](https://img.shields.io/badge/PWA-%235A0FC8?logo=PWA&logoColor=black&labelColor=%235A0FC8&color=black)
+![Static Badge](https://img.shields.io/badge/CI%2FCD-%230DBD8B?logo=elegoo&logoColor=black&labelColor=%230DBD8B&color=black)
+![Static Badge](https://img.shields.io/badge/DevOps-%2320A6C9?logo=apachesuperset&logoColor=black&labelColor=%2320A6C9&color=black)
+![Static Badge](https://img.shields.io/badge/BLOCKCHAIN-%23F0B90B?logo=bnbchain&logoColor=black&labelColor=%23F0B90B&color=black)
+
+
+
 
 
 

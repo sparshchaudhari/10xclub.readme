@@ -14,6 +14,8 @@
 ![Static Badge](https://img.shields.io/badge/Webpack-%238DD6F9?logo=webpack&logoColor=black&labelColor=%238DD6F9&color=black)
 ![Static Badge](https://img.shields.io/badge/React-%2361DAFB?logo=react&logoColor=black&labelColor=%2361DAFB&color=black)
 ![Static Badge](https://img.shields.io/badge/Spring%20Security-%236DB33F?logo=Spring%20Security&logoColor=black&labelColor=%236DB33F&color=black)
+![Static Badge](https://img.shields.io/badge/Spring-%236DB33F?logo=Spring&logoColor=black&labelColor=%236DB33F&color=black)
+
 
 
 

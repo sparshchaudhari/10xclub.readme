@@ -1,10 +1,8 @@
 [Bio]----------------------------------------------------------------------------[Bio]
 
 ### Skills
-skill
-skill
-skill
-skill
+![Static Badge](https://img.shields.io/badge/HTML-%23E34F26?logo=html5&logoColor=black&labelColor=%23E34F26&color=black)
+
 
 ### Blog
 Blog1

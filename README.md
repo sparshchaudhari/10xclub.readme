@@ -56,11 +56,9 @@
 <br>
 
 ## Statistics
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=sparshchaudhari&theme=react&show_icons=true&hide_border=true&count_private=true" width="470">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sparshchaudhari&theme=react&hide_border=true" width="495">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=react&show_icons=true&hide_border=true&layout=compact" width="400">	
-</div>
+![sparshchaudhari's Stats](https://github-readme-stats.vercel.app/api?username=sparshchaudhari&theme=react&show_icons=true&hide_border=true&count_private=true)
+![sparshchaudhari's Streak](https://github-readme-streak-stats.herokuapp.com/?user=sparshchaudhari&theme=react&hide_border=true)
+![sparshchaudhari's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sparshchaudhari&theme=react&show_icons=true&hide_border=true&layout=compact)
 
 <br>
 

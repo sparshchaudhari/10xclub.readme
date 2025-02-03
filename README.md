@@ -69,6 +69,10 @@ Hi, I’m <b> Sparsh Chaudhari </b> | BE (Computer Science) 2024 🎓 | Full Sta
 
 <br>
 
+## Support
+
+[![Stargazers repo roster for @sparshchaudhari/sparshchaudhari](https://reporoster.com/stars/dark/notext/sparshchaudhari/sparshchaudhari)](https://github.com/sparshchaudhari/sparshchaudhari/stargazers)
+
 
 
 

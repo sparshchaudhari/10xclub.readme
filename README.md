@@ -1,8 +1,18 @@
+
+
+	
+
+
 <p align="center">
   <img src="media/readme.gif" height="150">
 </p>
 <p align="center" width="100%">
   "Hello, I’m <b> Sparsh Chaudhari </b> | BE (Computer Science) 2024 🎓 | Full Stack Developer 💻. Passionate about building scalable web applications and writing clean, efficient code. Continuously learning and evolving with the latest technologies to create impactful solutions. Let’s collaborate and build something great! 🚀"
+</p>
+
+<p align="center">
+	<a href="https://leetcode.com/sparshchaudhari/">
+<img src="https://img.shields.io/badge/dynamic/json?style=flat-square&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fsparshchaudhari&logo=leetcode&logoColor=yellow" target="_blank"></a>
 </p>
 
 <br>

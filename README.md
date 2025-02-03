@@ -24,7 +24,7 @@ Hi, I’m <b> Sparsh Chaudhari </b> | BE (Computer Science) 2024 🎓 | Full Sta
 
 ## 🎭 Behind the Scenes: Fun Facts About Me! 🎭
 - Explorer at Heart: I love discovering new things, always seeking out fresh experiences and knowledge! 🌍
-- Minimalist Beverage Choice: I keep it simple—no need for coffee or tea to keep you going! 🍃
+- Minimalist Beverage Choice: I keep it simple—no need for coffee or tea to keep me going! 🍃
 - Taarak Mehta Enthusiast: I am all about enjoying my food while watching Taarak Mehta Ka Ooltah Chashmah—the perfect combo of laughter and snacks! 🍽️😂
 - Punjabi Vibes: I get your energy from upbeat Punjabi music that pumps me up and keeps you motivated! 🎶💥
 - Night Owl: I thrive in the late hours, getting my best ideas and energy when the world is quiet and calm. 🌙✨

@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="media/welcome.gif" height="150">
+  <img src="media/readme.gif" height="150">
 </p>
 
 <p align="center" width="100%">

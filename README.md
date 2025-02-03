@@ -59,7 +59,7 @@
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=sparshchaudhari&theme=react&show_icons=true&hide_border=true&count_private=true" width="45%">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sparshchaudhari&theme=react&hide_border=true" width="45%">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sparshchaudhari&theme=react&hide_border=true" width="47.5%" height="192" >
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sparshchaudhari&theme=react&show_icons=true&hide_border=true&layout=compact" width="45%">
 	
 </div>

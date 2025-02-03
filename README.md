@@ -25,7 +25,6 @@
 
 
 
-<br>
 
 ## Skills
 ### Technologies

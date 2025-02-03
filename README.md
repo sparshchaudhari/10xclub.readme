@@ -6,12 +6,12 @@
 <p align="center" width="100%">
   "Hello, I’m <b> Sparsh Chaudhari </b> | BE (Computer Science) 2024 🎓 | Full Stack Developer 💻. Passionate about building scalable web applications and writing clean, efficient code. Continuously learning and evolving with the latest technologies to create impactful solutions. Let’s collaborate and build something great! 🚀"
 </p>
+<br><br>
 
 
-<hr>
  
-### Skills:
-<hr>
+## Skills:
+
 
 
 #### Technologies
@@ -39,11 +39,12 @@
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/kubernetes.png" alt="Kubernetes" title="Kubernetes"/></code>
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ci_cd.png" alt="CI/CD" title="CI/CD"/></code>
 </div>
+<br><br>
 
-<hr>
 
-### Here are My Statistics:
-<hr>
+
+## Here are My Statistics:
+
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=sparshchaudhari&theme=react&show_icons=true&hide_border=true&count_private=true" width="470">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sparshchaudhari&theme=react&hide_border=true" width="495">

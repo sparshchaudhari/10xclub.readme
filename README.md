@@ -4,7 +4,7 @@
 </p>
 
 <p align="center" width="100%">
-  "Hello, I’m **Sparsh Chaudhari** | BE (Computer Science) 2024 🎓 | Full Stack Developer 💻. Passionate about building scalable web applications and writing clean, efficient code. Continuously learning and evolving with the latest technologies to create impactful solutions. Let’s collaborate and build something great! 🚀"
+  "Hello, I’m <b> Sparsh Chaudhari </b> | BE (Computer Science) 2024 🎓 | Full Stack Developer 💻. Passionate about building scalable web applications and writing clean, efficient code. Continuously learning and evolving with the latest technologies to create impactful solutions. Let’s collaborate and build something great! 🚀"
 </p>
 
 
@@ -44,8 +44,9 @@
 ## Here are My Statistics 
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=sparshchaudhari&show_icons=true&theme=radical" height="10%" width="60%" >
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true" height="10%" width="60%" >
+![sparshchaudhari's Stats](https://github-readme-stats.vercel.app/api?username=sparshchaudhari&theme=radical&show_icons=true&hide_border=true&count_private=true)
+![sparshchaudhari's Streak](https://github-readme-streak-stats.herokuapp.com/?user=sparshchaudhari&theme=radical&hide_border=true)
+![sparshchaudhari's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=radical&show_icons=true&hide_border=true&layout=compact)
     
   
   

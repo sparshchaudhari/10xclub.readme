@@ -4,11 +4,7 @@
 </p>
 
 <p align="center" width="100%">
-  👋 Hey, I’m Sparsh Chaudhari, your friendly neighborhood Full Stack Developer. I write code, break code, and somehow, eventually make it work (sometimes). 😅
-  💻 I build things that look nice, work well... and occasionally explode when you least expect it.
-  ☕ Fueled by coffee, code, and the occasional panic attack when I realize I missed a deadline.
-  🛠️ I specialize in fixing bugs I thought I already fixed, and creating features no one asked for but everyone needs.
-  💬 Hit me up if you want to chat about tech, memes, or how to make your code just work... after a few tries. 😜
+  "Hello, I’m **Sparsh Chaudhari** | BE (Computer Science) 2024 🎓 | Full Stack Developer 💻. Passionate about building scalable web applications and writing clean, efficient code. Continuously learning and evolving with the latest technologies to create impactful solutions. Let’s collaborate and build something great! 🚀"
 </p>
 
 

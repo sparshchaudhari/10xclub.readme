@@ -28,7 +28,7 @@ Hi, I’m <b> Sparsh Chaudhari </b> | BE (Computer Science) 2024 🎓 | Full Sta
 
 
 
-## Skills
+## 🌟 Wondering About My Skills? Let’s Explore! 🌟
 ### Technologies
 <div >
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" alt="HTML" title="HTML"/></code>
@@ -56,7 +56,7 @@ Hi, I’m <b> Sparsh Chaudhari </b> | BE (Computer Science) 2024 🎓 | Full Sta
 
 <br>
 
-## Statistics
+## 🚀 Check Out My Stats: The Data That Powers Me! 🚀
 
 <div align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=sparshchaudhari&theme=react&show_icons=true&hide_border=true&count_private=true" width="600" >
@@ -69,7 +69,7 @@ Hi, I’m <b> Sparsh Chaudhari </b> | BE (Computer Science) 2024 🎓 | Full Sta
 
 <br>
 
-## Support
+## 💖 Endless Thanks for Your Amazing Support! 💖
 
 [![Stargazers repo roster for @sparshchaudhari/sparshchaudhari](https://reporoster.com/stars/dark/notext/sparshchaudhari/sparshchaudhari)](https://github.com/sparshchaudhari/sparshchaudhari/stargazers)
 

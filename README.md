@@ -68,7 +68,5 @@
 
 <br>
 
-### Socials
-![GitHub followers](https://img.shields.io/github/followers/sparshchaudhari)
 
-Twitter
+

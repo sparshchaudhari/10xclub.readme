@@ -8,12 +8,13 @@
 </p>
 
 
-
+<hr>
  
-## Skills
+### Skills:
+<hr>
 
 
-### Technologies
+#### Technologies
 <div >
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" alt="HTML" title="HTML"/></code>
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png" alt="CSS" title="CSS"/></code>
@@ -31,7 +32,7 @@
 </div>
 
 
-### Tools
+#### Tools
 <div >
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png" alt="GitHub" title="GitHub"/></code>
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png" alt="Docker" title="Docker"/></code>
@@ -39,9 +40,10 @@
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ci_cd.png" alt="CI/CD" title="CI/CD"/></code>
 </div>
 
+<hr>
 
-
-## Here are My Statistics 
+### Here are My Statistics:
+<hr>
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=sparshchaudhari&theme=react&show_icons=true&hide_border=true&count_private=true" width="470">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sparshchaudhari&theme=react&hide_border=true" width="495">

@@ -55,9 +55,9 @@ Hello, I’m <b> Sparsh Chaudhari </b> | BE (Computer Science) 2024 🎓 | Full 
 ## Statistics
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=sparshchaudhari&theme=react&show_icons=true&hide_border=true&count_private=true" width="80%" >
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sparshchaudhari&theme=react&hide_border=true" width="80%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sparshchaudhari&theme=react&show_icons=true&hide_border=true&layout=compact" width="80%" >
+<img src="https://github-readme-stats.vercel.app/api?username=sparshchaudhari&theme=react&show_icons=true&hide_border=true&count_private=true" width="700" >
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sparshchaudhari&theme=react&hide_border=true" width="700">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sparshchaudhari&theme=react&show_icons=true&hide_border=true&layout=compact" width="700" >
 	
 </div>
 

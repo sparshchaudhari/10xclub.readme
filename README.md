@@ -50,11 +50,8 @@
 ## Here are My Statistics 
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=sparshchaudhari&show_icons=true&theme=radical" height="10%" width="50%" >
-
- 
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true" height="10%" width="50%" >
+<img src="https://github-readme-stats.vercel.app/api?username=sparshchaudhari&show_icons=true&theme=radical" height="10%" width="60%" >
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true" height="10%" width="60%" >
     
   
   

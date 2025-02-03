@@ -1,3 +1,7 @@
+<div align="center">
+<h1> 🙏🏻Namaste🎉</h1>
+	
+</div>
 
 
 	
@@ -7,7 +11,7 @@
   <img src="media/readme.gif" height="150">
 </p>
 <p align="center" width="100%">
-Hello, I’m <b> Sparsh Chaudhari </b> | BE (Computer Science) 2024 🎓 | Full Stack Developer 💻. Passionate about building scalable web applications and writing clean, efficient code. Continuously learning and evolving with the latest technologies to create impactful solutions. Let’s collaborate and build something great! 🚀
+Hi, I’m <b> Sparsh Chaudhari </b> | BE (Computer Science) 2024 🎓 | Full Stack Developer 💻. Passionate about building scalable web applications and writing clean, efficient code. Continuously learning and evolving with the latest technologies to create impactful solutions. Let’s collaborate and build something great! 🚀
 </p>
 <br>
 

@@ -56,9 +56,11 @@
 <br>
 
 ## Statistics
-![sparshchaudhari's Stats](https://github-readme-stats.vercel.app/api?username=sparshchaudhari&theme=react&show_icons=true&hide_border=true&count_private=true)
-![sparshchaudhari's Streak](https://github-readme-streak-stats.herokuapp.com/?user=sparshchaudhari&theme=react&hide_border=true)
-![sparshchaudhari's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sparshchaudhari&theme=react&show_icons=true&hide_border=true&layout=compact)
+
+<img src="https://github-readme-stats.vercel.app/api?username=sparshchaudhari&theme=react&show_icons=true&hide_border=true&count_private=true" width="450" align="left">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sparshchaudhari&theme=react&hide_border=true" width="450">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sparshchaudhari&theme=react&show_icons=true&hide_border=true&layout=compact" width="450">
+
 
 <br>
 

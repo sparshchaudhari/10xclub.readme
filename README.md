@@ -65,5 +65,9 @@ Hello, I’m <b> Sparsh Chaudhari </b> | BE (Computer Science) 2024 🎓 | Full 
 
 <br>
 
+[![Stargazers repo roster for @sparshchaudhari/sparshchaudhari](https://reporoster.com/stars/sparshchaudhari/sparshchaudhari)](https://github.com/sparshchaudhari/sparshchaudhari/stargazers)
+
+[![Forkers repo roster for @sparshchaudhari/sparshchaudhari](https://reporoster.com/forks/sparshchaudhari/sparshchaudhari)](https://github.com/sparshchaudhari/sparshchaudhari/network/members)
+
 
 
